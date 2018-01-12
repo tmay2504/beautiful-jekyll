@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Science of Coffee
+title: the science of coffee
 
 # Short description of your site
 description: Where Science Meets Delicious!
@@ -23,12 +23,14 @@ description: Where Science Meets Delicious!
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "archive"
+  Beginner Resources: "beginner"
   About Me: "aboutme"
-  Resources:
-    - Blog: ""
-    - Test: ""
-    - Test2: "https://pages.github.com/"
-  Author's home: "https://tmay2504.github.io/"
+#  Blog:
+#    - Blog: ""
+#    - Test: ""
+#    - Test2: "https://pages.github.com/"
+#  Author's home: "https://tmay2504.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -72,10 +74,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "thescienceofcoffee@gmail.com"
+  twitter: thesciofcoffee
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -93,9 +93,9 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
