@@ -25,6 +25,7 @@ description: where science meets coffee
 navbar-links:
   Blog: "archive"
   Beginner Resources: "beginner"
+  Visualization: "visualization"
   About Me: "aboutme"
 #  Blog:
 #    - Blog: ""
