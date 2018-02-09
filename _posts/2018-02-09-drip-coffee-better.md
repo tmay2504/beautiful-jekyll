@@ -2,8 +2,6 @@
 layout: post
 title: Improving your Daily Drip Coffee
 subtitle: Simple tips to improve your daily coffee!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 ---
 
 Welcome to my first post on thescienceofcoffee.  Today, I wanted to write about several simple and effective tips for improving your daily coffee.  The most common method for brewing coffee is by an automatic drip coffee maker.  Drip coffee is made using a traditional coffee maker (Mr. Coffee, coffee pot from a restaurant etc.) where hot water is automatically dripped on top of ground coffee and through a filter to remove any larger particulates.  There are many different drip coffee systems but in most households they are the ~$20 Mr. Coffee or equivalent brand machine that simply heats up the water and drips it over and through the coffee.  Below are several tips/techniques to make sure your coffee comes out great every day!  (Another popular method for brewing daily coffee is through a single server coffee machine like a Keurig system.  Some of the below tips can be applied to a single cup system but they are intended to be useful for those who use a traditional coffee maker.)
