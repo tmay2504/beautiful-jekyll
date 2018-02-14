@@ -40,4 +40,4 @@ Most of my life, I refused to drink coffee.  I thought it was bitter, disgusting
       * 20 oz
       * 16 oz
       
-If anyone would like to collaborate, please contact me [here](mailto: thescienceofcoffee@gmail.com).
+If anyone would like to collaborate, please contact me [here](mailto: thescienceofcoffee@gmail.com)
