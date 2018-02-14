@@ -23,7 +23,7 @@ description: where science meets coffee
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "archive"
+  Blog: "index"
   Beginner Resources: "beginner"
   Visualization: "visualization"
   About Me: "aboutme"
