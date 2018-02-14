@@ -52,4 +52,4 @@ From there, my wife and family bought me a few different coffee brewers and acce
       * 20 oz
       * 16 oz
       
-If anyone would like to collaborate, please contact me at thescienceofcoffee@gmail.com.
+If anyone would like to collaborate, please contact me with one of the links below.
