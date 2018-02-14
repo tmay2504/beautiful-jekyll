@@ -14,34 +14,30 @@ Most of my life, I refused to drink coffee.  I thought it was bitter, disgusting
 
 **Automatic Drip Coffee System:**
 
-   Cuisinart Grind and Brew
+   * Cuisinart Grind and Brew
     
     
 **Pourover System:**
     
-   Hario V60 #2
+   * Hario V60 #2
     
-     Hario Unbleached Conical Paper Filter
+     * Hario Unbleached Conical Paper Filter
       
-   Hario Glass Pitcher
+   * Hario Glass Pitcher
+
+   * 6 Cup Chemex Brewer
     
-   2 Coffee Gator Cannisters
-    
-    20 oz
-      
-    16 oz
-      
-   6 Cup Chemex Brewer
-    
-    Chemex Square Paper Filter
+    * Chemex Square Paper Filter
       
 **Grinder:**
-     - JavaPresse Manual Grinder
+
+   * JavaPresse Manual Grinder
      
 **General:**
-    - Contigo Insulated Mug
-    - 2 Coffee Gator Cannisters
-      -20 oz
-      -16 oz
+
+   * Contigo Insulated Mug
+   * 2 Coffee Gator Cannisters
+      * 20 oz
+      * 16 oz
       
 If anyone would like to collaborate, please contact me [here](mailto: thescienceofcoffee@gmail.com).
