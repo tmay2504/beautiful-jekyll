@@ -13,16 +13,25 @@ Most of my life, I refused to drink coffee.  I thought it was bitter, disgusting
 ### Current Coffee Brewing Equipment
 
 **Automatic Drip Coffee System:**
+
     - Cuisinart Grind and Brew
+    
     
 **Pourover System:**
     - Hario V60 #2
+    
       - Hario Unbleached Conical Paper Filter
+      
     - Hario Glass Pitcher
+    
     - 2 Coffee Gator Cannisters
+    
       -20 oz
+      
       -16 oz
+      
     - 6 Cup Chemex Brewer
+    
       -Chemex Square Paper Filter
       
 **Grinder:**
