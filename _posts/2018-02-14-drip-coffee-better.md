@@ -26,9 +26,13 @@ One other benefit is that some of the local coffee may be sweeter or milder and 
 Here are some of my favorites in Pittsburgh:
 
 [de Fer](https://defer.coffee/)
+
 [Commonplace Coffee](https://thecommonplacecoffeehouse.com/)
+
 [Steel Valley Roasters](http://www.steelvalleyroasters.com/)
+
 [Allegheny Coffee](http://www.alleghenycoffee.com/)
+
 [Klvn Coffee Lab](https://www.klvncoffee.com/)
 
 # Expense level 2 (adds about $3-5 per bag)
