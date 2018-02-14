@@ -47,6 +47,7 @@ From there, my wife and family bought me a few different coffee brewers to try o
 **General:**
 
    * Contigo Insulated Mug
+   
    * 2 Coffee Gator Cannisters
       * 20 oz
       * 16 oz
