@@ -22,18 +22,19 @@ From there, my wife and family bought me a few different coffee brewers to try o
 **Pourover System:**
     
    * Hario V60 #2
-    * Hario Unbleached Conical Paper Filter
+      * Hario Unbleached Conical Paper Filter
+      
    * Hario Glass Pitcher
+   
    * 6 Cup Chemex Brewer
-    * Chemex Square Paper Filter
+      * Chemex Square Paper Filter
     
 **Immersion System:**
 
    * Bodum French Press
    
    * Aerobie Aeropress
-   
-      * Able Metal Filter
+         * Able Metal Filter
    
 **Grinder:**
 
