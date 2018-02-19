@@ -61,7 +61,7 @@ Clean your coffee maker, grinder, coffee pot, mugs, etc...  I am a little bit ob
 
 ## Tip 5: Filters
 
-Screw the environment, use paper coffee filters.  I like to pour hot water through the filter before turning the coffee maker on to remove any excess material and to get rid of the "papery" taste.  I typically use filters made by Hario or Chemex.  I good tip by Scott Rao is to buy a few different types and set them up on cups in a row.  Pour cold water through each one and drink each cup.  Find the water that has the best flavor, least chemical taste and use that for coffee!
+I recommend using paper coffee filters.  I just think the coffee tastes better and is a bit "cleaner".  Remember that you can always compost your coffee filters and grounds!  I like to pour hot water through the filter before turning the coffee maker on to remove any excess material and to get rid of the "papery" taste.  I typically use filters made by Hario or Chemex.  I good tip by Scott Rao is to buy a few different types and set them up on cups in a row.  Pour cold water through each one and drink each cup.  Find the water that has the best flavor, least chemical taste and use that for coffee!
 
 In my experience, the metal mesh coffee filters made for repeated use carry the flavor of the old coffee.  I have tried all the tricks including using vinegar to clean them or buying the expensive cleaner made for cleaning mesh and no method seems to work for more than one brew.
 
