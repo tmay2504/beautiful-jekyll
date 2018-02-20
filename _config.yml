@@ -24,7 +24,8 @@ description: where science meets coffee
 # List of links in the navigation bar
 navbar-links:
   Blog: "index"
-  Beginner Resources: "beginner"
+  Beginner Guide: "beginner"
+  Gift Guide: "gift"
   Visualization: "visualization"
   About Me: "aboutme"
 #  Blog:
