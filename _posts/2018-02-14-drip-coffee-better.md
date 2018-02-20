@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Improving your Daily Drip Coffee
 subtitle: Simple tips to improve your daily coffee!
 ---
