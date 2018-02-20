@@ -1,7 +1,7 @@
 ---
 layout: page
 title: gift guide
-subtitle: all the information you need to get started and then some
+subtitle: treat yo'self
 ---
 
 # Currently Under Construction, thank you for your patience
