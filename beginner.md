@@ -20,7 +20,7 @@ Coffee beans are actually the seeds from the coffee plant's fruit called a cherr
 ## Gear: Which gear is best to start out with?
 If you decided you want to brew manual coffee at home, then you will need some gear!  The gear that you use is important but remember nothing can replace good beans.  If you start with bad beans, $50k worth of equipment can't make it taste that much better!  To start, I recommend budgeting around ~$100-150 for your initial coffee investment.  The most important piece of gear when starting out is a grinder.  Grinding your coffee fresh will make a huge difference in the flavor of your coffee!
 
-###Beginner Recommendation (Prices are approximate):
+### Beginner Recommendation (Prices are approximate):
 
 The easiest brewing method that yields the best results (in my opinion) is the ###Aeropress.  
 
