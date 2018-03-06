@@ -27,28 +27,28 @@ The easiest brewing method that yields the best results (in my opinion) is the #
 Here is a barebones setup for an Aeropress:
 
 ~$30 [Aerobie Aeropress](http://amzn.to/2HaIxz0) (Replacement Filters: [Metal Filter](http://amzn.to/2oMYZP1) or [Paper Filter](http://amzn.to/2oNbJp1) )
-~$24 [JavaPresse Manual Grinder] (http://amzn.to/2FfqISD) (nicer beginner grinder would be ~$40 [Hario Skerton] (http://amzn.to/2tlrWX2 ))
+~$24 [JavaPresse Manual Grinder](http://amzn.to/2FfqISD) (nicer beginner grinder would be ~$40 [Hario Skerton](http://amzn.to/2tlrWX2 ))
 
 ~$54 to start your coffee journey!
 
 Optional but recommended for AeroPress:
-~$20 [Gooseneck Kettle] (http://amzn.to/2H9a6IO) (nicer beginner kettle that is electric would be ~$60 [Bonavita Electric Gooseneck Kettle] (http://amzn.to/2Fk6Dqv))
-~$20 [Scale] (http://amzn.to/2D4ctKI)
-~$10 [Thermometer] (http://amzn.to/2G0l4RB)
+~$20 [Gooseneck Kettle](http://amzn.to/2H9a6IO) (nicer beginner kettle that is electric would be ~$60 [Bonavita Electric Gooseneck Kettle](http://amzn.to/2Fk6Dqv))
+~$20 [Scale](http://amzn.to/2D4ctKI)
+~$10 [Thermometer](http://amzn.to/2G0l4RB)
 
 ~$104 for a complete Aeropress set-up or ~$144 for an electric kettle Aeropress set-up (you will not need the thermometer with the electric kettle)
 
-If you want to try out Pour Over coffee instead of Aeropress, you will definitely need to purchase a Gooseneck Kettle and a Scale (see above).  There are several different types of Pour Over systems.  I would recommend starting with a ~$20 [Clever Dripper] (http://amzn.to/2oSwMpe) and then potentially going to the Kalita Wave from there.  However, my favorite Pour Over methods are the ~$20 [V60] (http://amzn.to/2H89G5B) (~$6 [Paper Filters] (http://amzn.to/2tiHRpd) and ~$50 [Chemex 6 Cup] (http://amzn.to/2D3GfPC) (~$20 [Paper Filters] (http://amzn.to/2Ffs0xg)).
+If you want to try out Pour Over coffee instead of Aeropress, you will definitely need to purchase a Gooseneck Kettle and a Scale (see above).  There are several different types of Pour Over systems.  I would recommend starting with a ~$20 [Clever Dripper](http://amzn.to/2oSwMpe) and then potentially going to the Kalita Wave from there.  However, my favorite Pour Over methods are the ~$20 [V60](http://amzn.to/2H89G5B) (~$6 [Paper Filters](http://amzn.to/2tiHRpd) and ~$50 [Chemex 6 Cup](http://amzn.to/2D3GfPC) (~$20 [Paper Filters](http://amzn.to/2Ffs0xg)).
 
 If you purchased the complete Aeropress set-up, you would only need to spend an additional ~$20-70 to complete an Aeropress and Pour over set-up!  These two set-ups really are all that you need to experience a range of coffees but you may want to consider investing in a nicer grinder if you want to continue with making your own coffee.
 
 Higher End Setup:
 
-[Baratza Virtuoso] (http://amzn.to/2G02Tvh) for Automatic Grinding or [Helor 101] (https://prima-coffee.com/equipment/helor/helor-101) for Hand Grinding (another option would be a [Kinu M47] (https://kinugrinders.com/index.php?page=m_home_page.public.home_page&Block=HOME&Language=none#products) )
-[Acaia Scale] (http://amzn.to/2H9JW8W) (fancy scale that has some additional features that are integrated with an app)
-[Fellow Stagg EKG+ Gooseneck Kettle] (http://fellowproducts.com/shop/staggekg/) (fancy electric kettle that can be started remotely using an app)
-[Third Wave Water] (https://thirdwavewater.com/collections/all) (adds additional minerals to water that accentuate the flavor of coffee)
-[Kruve Coffee Sieve] (https://www.kruveinc.com/pages/shop-kruve) (allows you to hone in on the exact size of the beans for an even coffee extraction)
+[Baratza Virtuoso](http://amzn.to/2G02Tvh) for Automatic Grinding or [Helor 101](https://prima-coffee.com/equipment/helor/helor-101) for Hand Grinding (another option would be a [Kinu M47](https://kinugrinders.com/index.php?page=m_home_page.public.home_page&Block=HOME&Language=none#products) )
+[Acaia Scale](http://amzn.to/2H9JW8W) (fancy scale that has some additional features that are integrated with an app)
+[Fellow Stagg EKG+ Gooseneck Kettle](http://fellowproducts.com/shop/staggekg/) (fancy electric kettle that can be started remotely using an app)
+[Third Wave Water](https://thirdwavewater.com/collections/all) (adds additional minerals to water that accentuate the flavor of coffee)
+[Kruve Coffee Sieve](https://www.kruveinc.com/pages/shop-kruve) (allows you to hone in on the exact size of the beans for an even coffee extraction)
 
 With the high end equipment listed above, you can basically do any manual coffee method you desire!
 
