@@ -40,6 +40,7 @@ From there, my wife and family bought me a few different coffee brewers and acce
 **Grinder:**
 
    * Kinu M47 Hand Grinder
+   
    * JavaPresse Hand Grinder
    
 **Kettle:**
