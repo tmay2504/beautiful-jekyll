@@ -38,7 +38,7 @@ Optional but recommended for AeroPress:
 
 ~$104 for a complete Aeropress set-up or ~$144 for an electric kettle Aeropress set-up (you will not need the thermometer with the electric kettle)
 
-If you want to try out Pour Over coffee instead of Aeropress, you will definitely need to purchase a Gooseneck Kettle and a Scale (see above).  There are several different types of Pour Over systems.  I would recommend starting with a ~$20 [Clever Dripper](http://amzn.to/2oSwMpe) and then potentially going to the Kalita Wave from there.  However, my favorite Pour Over methods are the ~$20 [V60](http://amzn.to/2H89G5B) (~$6 [Paper Filters](http://amzn.to/2tiHRpd) and ~$50 [Chemex 6 Cup](http://amzn.to/2D3GfPC) (~$20 [Paper Filters](http://amzn.to/2Ffs0xg)).
+If you want to try out Pour Over coffee instead of Aeropress, you will definitely need to purchase a Gooseneck Kettle and a Scale (see above).  There are several different types of Pour Over systems.  I would recommend starting with a ~$20 [Clever Dripper](http://amzn.to/2oSwMpe) and then potentially going to the Kalita Wave from there.  However, my favorite Pour Over methods are the ~$20 [V60](http://amzn.to/2H89G5B) (~$6 [Paper Filters](http://amzn.to/2tiHRpd) and $50 [Chemex 6 Cup](http://amzn.to/2D3GfPC) (~$20 [Paper Filters](http://amzn.to/2Ffs0xg)).
 
 If you purchased the complete Aeropress set-up, you would only need to spend an additional ~$20-70 to complete an Aeropress and Pour over set-up!  These two set-ups really are all that you need to experience a range of coffees but you may want to consider investing in a nicer grinder if you want to continue with making your own coffee.
 
