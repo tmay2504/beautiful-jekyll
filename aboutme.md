@@ -35,10 +35,12 @@ From there, my wife and family bought me a few different coffee brewers and acce
    
    * Aerobie Aeropress
       * Able Metal Filter
+      * Aerobie Paper Filter
    
 **Grinder:**
 
-   * JavaPresse Manual Grinder
+   * Kinu M47 Hand Grinder
+   * JavaPresse Hand Grinder
    
 **Kettle:**
 
