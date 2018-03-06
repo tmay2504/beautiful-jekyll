@@ -31,10 +31,10 @@ Here is a barebones setup for an Aeropress:
 
 **~$54 to start your coffee journey!**
 
-Optional but recommended for AeroPress:
+*Optional but recommended for AeroPress:
 ~$20 [Gooseneck Kettle](http://amzn.to/2H9a6IO) (nicer beginner kettle that is electric would be ~$60 [Bonavita Electric Gooseneck Kettle](http://amzn.to/2Fk6Dqv))
 ~$20 [Scale](http://amzn.to/2D4ctKI)
-~$10 [Thermometer](http://amzn.to/2G0l4RB)
+~$10 [Thermometer](http://amzn.to/2G0l4RB)*
 
 **~$104 for a complete Aeropress set-up or ~$144 for an electric kettle Aeropress set-up (you will not need the thermometer with the electric kettle)**
 
