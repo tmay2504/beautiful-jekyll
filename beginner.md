@@ -22,7 +22,7 @@ If you decided you want to brew manual coffee at home, then you will need some g
 
 ### Beginner Recommendation (Prices are approximate):
 
-The easiest brewing method that yields the best results (in my opinion) is the ###Aeropress.  
+The easiest brewing method that yields the best results (in my opinion) is the ### Aeropress.  
 
 Here is a barebones setup for an Aeropress:
 
